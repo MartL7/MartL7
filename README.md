@@ -2,7 +2,9 @@
   <img src="https://media2.giphy.com/media/7uDtQm2jKdS0VGLg46/giphy.gif?cid=ecf05e47azsdw2vi5ikt8jw7vdha06l3vpcz11hkwys9mufx&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="200px">
   <h1 align="center"> Hi 👋 Mart7 </h1>
   <h3 align="center"> Estudiante de CiberSeguridad, me encanta la programacion y todo relacionado a ella, <br>
-           Me gusta ver Contendo de Youtube, TikTok y Twitch, jugador de Fifa y Kof 2002 </h3> 
+           Me gusta ver Contendo de Youtube, TikTok y Twitch. Jugador de Fifa y Kof 2002 plus, <br>
+           Futbol y Team Cristiano Ronaldo.
+  </h3> 
   <div align="center">
     <h3>👻 Redes Sociales </h3>
       <a href="https://wa.me/527761029302">
@@ -20,6 +22,7 @@
 ### 😎 Acerca de mi / About Me:
 - ⛪ De Mexico / From Mexico City
 - 🕸 Programador, Desarrolador Web
+- 😈 Modder de Whatsapp
 - 👾 Estudiante de CiberSeguridad
 - 👽 Contacto / Contact Me: **mart7contact@gmail.com**
 
