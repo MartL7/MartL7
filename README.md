@@ -1,6 +1,6 @@
 <div id="header" align="center">
   <img src="https://media2.giphy.com/media/7uDtQm2jKdS0VGLg46/giphy.gif?cid=ecf05e47azsdw2vi5ikt8jw7vdha06l3vpcz11hkwys9mufx&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="200px">
-  <h1 align="center"> Hi 👋 Mart7 </h1>
+  <h1 align="center"> Hi 👋, I´m Mart7 </h1>
   <h3 align="center"> Estudiante de CiberSeguridad, me encanta la programacion y todo relacionado a ella, <br>
            Me gusta ver Contendo de Youtube, TikTok y Twitch. Jugador de Fifa y Kof 2002 plus, <br>
            Futbol y Team Cristiano Ronaldo.
