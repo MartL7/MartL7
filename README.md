@@ -1,13 +1,13 @@
 <div id="header" align="center">
-  <img src="https://media2.giphy.com/media/7uDtQm2jKdS0VGLg46/giphy.gif?cid=ecf05e47azsdw2vi5ikt8jw7vdha06l3vpcz11hkwys9mufx&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="200px">
-  <h1 align="center"> Hi 👋, I´m Mart7 </h1>
-  <h3 align="center"> Estudiante de CiberSeguridad, me encanta la programacion y todo relacionado a ella, <br>
+  <img src="https://media1.giphy.com/media/iRwnh8KliEWm4/giphy.gif?cid=ecf05e473xfmqpjzazrz6khsvdsuub70lrprrgqw8bfn7znn&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="300px">
+  <h1 align="center"> Hi 👋, I'm Mart7 </h1>
+  <h3 align="center"> Estudiante de CiberSeguridad, me encanta la programación y todo relacionado a ella, <br>
            Me gusta ver Contendo de Youtube, TikTok y Twitch. Jugador de Fifa y Kof 2002 plus, <br>
            Futbol y Team Cristiano Ronaldo.
   </h3> 
   <div align="center">
-    <h3>👻 Redes Sociales </h3>
-      <a href="https://wa.me/527761029302">
+    <h3>👻 Redes Sociales: </h3>
+      <a href="https://wa.me/527761029302?text=Saludos">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/WhatsApp.svg/767px-WhatsApp.svg.png" width="40" height="40" title="Whatsapp"></a>
    <a href="https://www.instagram.com/geovx_lg/">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/768px-Instagram_logo_2016.svg.png" width="35" height="35" title="Instagram"></a>
@@ -21,10 +21,10 @@
 ---
 ### 😎 Acerca de mi / About Me:
 - ⛪ De Mexico / From Mexico City
-- 🕸 Programador, Desarrolador Web
-- 😈 Modder de Whatsapp
+- 🕸 Programador, Desarrollador Web
+- 😈 Modder de Whatsapp y apps Android
 - 👾 Estudiante de CiberSeguridad
-- 👽 Contacto / Contact Me: **mart7contact@gmail.com**
+- 👽 Contacto / Contact Me: **martL7contact@gmail.com**
 
  <div align="left">
     <h3>🦴 Mainer Lenguages </h3>
