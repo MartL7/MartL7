@@ -2,7 +2,7 @@
   <img src="https://media1.giphy.com/media/iRwnh8KliEWm4/giphy.gif?cid=ecf05e473xfmqpjzazrz6khsvdsuub70lrprrgqw8bfn7znn&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="300px">
   <h1 align="center"> Hi 👋, I'm Mart7 </h1>
   <h3 align="center"> Estudiante de CiberSeguridad, me encanta la programación y todo relacionado a ella, <br>
-           Me gusta ver Contendo de Youtube, TikTok y Twitch. Jugador de Fifa y Kof 2002 plus, <br>
+           Me gusta ver Contenido de Youtube, TikTok y Twitch. Jugador de Fifa y Kof 2002 plus, <br>
            Futbol y Team Cristiano Ronaldo.
   </h3> 
   <div align="center">
