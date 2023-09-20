@@ -14,7 +14,7 @@
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/WhatsApp.svg/767px-WhatsApp.svg.png" width="40" height="40" title="Whatsapp"></a>
    <a href="https://www.instagram.com/geovx_lg/">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/768px-Instagram_logo_2016.svg.png" width="35" height="35" title="Instagram"></a>
-    <a href="https://www.tiktok.com/@stomps_bb?_t=8daFX5LyKwP&_r=1">
+    <a href="https://www.tiktok.com/@geovasbb">
         <img src="https://www.svgrepo.com/show/327400/logo-tiktok.svg" width="40" height="40" title="TikTok"></a>
     <a href="https://twitter.com/GeovasYosoy?t=qAWYVHS0v319b0qlBVftxQ&s=09">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Logo_of_Twitter.svg/2491px-Logo_of_Twitter.svg.png" width="37" height="37" title="Twitter"></a>
