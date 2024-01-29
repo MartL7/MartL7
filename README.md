@@ -25,26 +25,32 @@
 ### 😎 Acerca de mi / About Me:
 - ⛪ De Mexico / From Mexico City
 - 🕸 Programador, Desarrollador Web JR
-- 😈 Modder de Whatsapp y apps Android
+- 😈 Modder de Whatsapp
 - 👾 Estudiante de CiberSeguridad
 - 👽 Contacto / Contact Me: **martL7contact7@gmail.com**
 
 ```javascript
 
-Conoce Mas Sobre Mi
+// Love Declaration
+const love = ['❤', '❤', '❤', '❤']
+let ourLove = 10000
+const isNoteLove = love.some(notLove => notLove === '💔')
+while (isNotLove !== true) {
+  ourLove ++
+  love.push('❤')
+}
+
+// Conoce Mas Sobre Mi
 const about_me = {
     Edad: 17,
     Nacionalidad: "Mexicano",
     Ciudad: "Ciudad de Mexico",
     Perros: true,
     Simpatico: true,
-    Main_Lenguajes: [
-        "JavaScript", "Python", "PHP", "C#"
+    MainTechnologies: [
+      'JavaScript', 'NodeJS', 'React', 'Bootstrap', 'PHP', 'C#'
     ],
-    Lenguajes_Secundarios: [
-        "Java", "CSS", "SQL"
-    ]
-];
+}
 ```
 
 
