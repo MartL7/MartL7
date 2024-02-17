@@ -1,33 +1,45 @@
 <div id="header" align="center">
-  <img src="https://media1.giphy.com/media/iRwnh8KliEWm4/giphy.gif?cid=ecf05e473xfmqpjzazrz6khsvdsuub70lrprrgqw8bfn7znn&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="300px">
-  <h1 align="center"> Hi 👋, I'm MartL7 </h1>
-  <h3 align="center"> Amante de la Programación y todo relacionado a ella. <br>
-    Mejorando cada vez más ya que cada día se aprende algo nuevo.
-  </h3> 
+  <img src="https://media1.giphy.com/media/iRwnh8KliEWm4/giphy.gif?cid=ecf05e473xfmqpjzazrz6khsvdsuub70lrprrgqw8bfn7znn&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="300px" />
+
+  <h1 align="center"> ¡Hii 👋! I'm MartL7 👨‍💻 </h1>
+
+  <p align="center"> Lover of programming and everything related to it. <br>
+    Getting better and better as every day you learn something new.
+  </p> 
 
   <div align="xenter">
     <h2> "You are the CSS of my HTML" <3 </h2>
   </div>
-  <div align="center">
-    <h3>👻 Redes Sociales: </h3>
-      <a href="https://wa.me/527761029302?text=Saludos">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/WhatsApp.svg/767px-WhatsApp.svg.png" width="40" height="40" title="Whatsapp"></a>
-   <a href="https://www.instagram.com/geovx_lg/">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/768px-Instagram_logo_2016.svg.png" width="35" height="35" title="Instagram"></a>
-    <a href="https://www.tiktok.com/@geovasbb">
-        <img src="https://www.svgrepo.com/show/327400/logo-tiktok.svg" width="40" height="40" title="TikTok"></a>
-    <a href="https://twitter.com/GeovasYosoy?t=qAWYVHS0v319b0qlBVftxQ&s=09">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Logo_of_Twitter.svg/2491px-Logo_of_Twitter.svg.png" width="37" height="37" title="Twitter"></a>
-  </div>
+
+  <p align="center">
+    <a href="https://wa.me/527761029302" target="blank">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/WhatsApp.svg/767px-WhatsApp.svg.png" width="30" height="30" title="Whatsapp" />
+    </a>
+    <span style="width: 8px;">
+      <a href="https://www.instagram.com/geovx_lg/" target="blank">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/768px-Instagram_logo_2016.svg.png" width="26" height="30" title="Instagram" />
+      </a>
+    </span>
+    <span style="width: 8px;">
+      <a href="https://www.tiktok.com/@geovasbb" target="blank">
+        <img src="https://www.svgrepo.com/show/327400/logo-tiktok.svg" width="30" height="30" title="TikTok" />
+      </a>
+    </span>
+    <span style="width: 8px;">
+     <a href="https://twitter.com/GeovasYosoy?t=qAWYVHS0v319b0qlBVftxQ&s=09" target="blank">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Logo_of_Twitter.svg/2491px-Logo_of_Twitter.svg.png" width="27" height="27" title="Twitter" />
+      </a>
+    </span>
+  </p>
+
 </div>
 
 ---
-### 😎 Acerca de mi / About Me:
-- ⛪ De Mexico / From Mexico City
-- 🕸 Programador, Desarrollador Web JR
-- 😈 Modder de Whatsapp
-- 👾 Estudiante de CiberSeguridad
-- 👽 Contacto / Contact Me: **martL7contact7@gmail.com**
+### 📑 About Me:
+- 🏠 From Mexico City
+- 😺 Full Stack Developer JR
+- 👾 Cybersecurity Student
+- 📓 Contact Me: **martl7contact7@gmail.com**
 
 ```javascript
 
@@ -43,15 +55,16 @@ while (isNotLove !== true) {
 }
 
 // Conoce Mas Sobre Mi
-const about_me = {
-    Edad: 17,
-    Nacionalidad: "Mexicano",
-    Ciudad: "Ciudad de Mexico",
-    Perros: true,
-    Simpatico: true,
+const aboutMe = {
+    Age: 17,
+    Country: "Mexican",
+    City: "CDMX",
     MainTechnologies: [
-      'JavaScript', 'NodeJS', 'React', 'Bootstrap', 'PHP', 'C#'
+      'JavaScript', 'NodeJS', 'React', 'Bootstrap', 'PHP', 'C#', 'Express', 'Tailwindcss'
     ],
+    SecondaryTechnologies: [
+      'Angular', 'Astro', 'NextJS', 'Java', 'Python'
+    ]
 }
 ```
 
