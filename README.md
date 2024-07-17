@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <img src="https://media1.giphy.com/media/iRwnh8KliEWm4/giphy.gif?cid=ecf05e473xfmqpjzazrz6khsvdsuub70lrprrgqw8bfn7znn&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="300px" />
 
-  <h1 align="center"> ¡Hii 👋! I'm MartL7 👨‍💻 </h1>
+  <h1 align="center"> ¡Hii 👋! I'm Geovas 👨‍💻 </h1>
 
   <p align="center"> Lover of programming and everything related to it. <br>
     Getting better and better as every day you learn something new.
@@ -34,36 +34,42 @@
 
 </div>
 
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=MartL7&show_icons=true&theme=midnight-purple&hide_border=false&line_height=20" alt="GitHub Stats of Geovas" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MartL7&layout=compact&theme=midnight-purple" alt="Most used Languages of Geovas" />
+</div>
+
+
 ---
 ### 📑 About Me:
 - 🏠 From Mexico City
 - 😺 Full Stack Developer JR
-- 👾 Cybersecurity Student
 - 📓 Contact Me: **martl7contact7@gmail.com**
 
 ```javascript
 
-// Love Declaration
+// Love Declaration --> L <3
 const love = ['❤', '❤', '❤', '❤']
 let ourLove = 10000
 
 const isNoteLove = love.some(notLove => notLove === '💔')
 
-while (isNotLove !== true) {
+while (!isNoteLove) {
   ourLove ++
   love.push('❤')
 }
 
 // Conoce Mas Sobre Mi
 const aboutMe = {
-    Age: 17,
-    Country: "Mexican",
-    City: "CDMX",
-    MainTechnologies: [
-      'JavaScript', 'NodeJS', 'React', 'Bootstrap', 'PHP', 'C#', 'Express', 'Tailwindcss'
+    age: 17,
+    country: "Mexican",
+    city: "CDMX",
+    birthDay: '21/08',
+    mainTechnologies: [
+      'Html', 'Css', 'JavaScript', 'NodeJS', 'TailwindCss', 'Astro', 'React', 'TypeScript', 'SQLite', 'Express'
     ],
-    SecondaryTechnologies: [
-      'Angular', 'Astro', 'NextJS', 'Java', 'Python'
+    secondaryTechnologies: [
+      'NextJS', 'React Native', 'Python'
     ]
 }
 ```
